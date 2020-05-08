@@ -2,9 +2,9 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-fromemail = "noreplypohu@gmail.com" #Input your Email Address
-frompassword = "pyemailtest" #Input your Email Password
-toemail = "theswifez@gmail.com" #Input the address you want to send to
+fromemail = "" #Input your Email Address
+frompassword = "" #Input your Email Password
+toemail = "" #Input the address you want to send to
 numemail = 10 #How many emails do you want to send
 n = 1
 
